@@ -6,7 +6,7 @@ This project focuses on layout design, styling, and UI structure, closely mimick
 ![Amazon-clone Demo](amazon-clone.png)
 
 
-🔥 Features
+🔥 **Features**
 
  Amazon-style navigation bar
  
@@ -22,7 +22,7 @@ This project focuses on layout design, styling, and UI structure, closely mimick
 
  
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 HTML5 – Page structure
 
@@ -36,7 +36,7 @@ Media Queries
 
 
 
-📌 Purpose of the Project
+📌 **Purpose of the Project**
 
 This project was created to:
 
